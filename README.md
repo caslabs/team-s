@@ -1,37 +1,4 @@
 
-# hacc2019
-![alt text](https://cdn.discordapp.com/attachments/622355729751212033/643860546130673664/Screen_Shot_2019-11-12_at_7.11.51_AM.png)
-## FOR ICS 491 Special Topics
-https://alohadash.me (NOT PORTED/PRODUCTION CODE) <br> 
-https://governdash.web.app/ (PROTOTYPE) WORKING
-Hey, Jeraldy here!
-I will be updating our project after the hacc. We're trying to generate daily active users right now.
-
-### Screenshots.
-## Landing Page
-![Landing Page FRONT](https://cdn.discordapp.com/attachments/511085034095116291/658820300686884884/Screen_Shot_2019-12-23_at_1.55.28_PM.png)
-![Login Page FRONT](https://cdn.discordapp.com/attachments/511085034095116291/658820989710368780/Screen_Shot_2019-12-23_at_1.59.08_PM.png)
-![Login Page FRONT](https://cdn.discordapp.com/attachments/511085034095116291/658821112351948800/Screen_Shot_2019-12-23_at_1.59.37_PM.png)
-![Login Page FRONT](https://cdn.discordapp.com/attachments/511085034095116291/658821181213769737/Screen_Shot_2019-12-23_at_1.59.59_PM.png)
-![Login Page FRONT](https://cdn.discordapp.com/attachments/511085034095116291/658821181213769737/Screen_Shot_2019-12-23_at_1.59.59_PM.png)
-
-
-## Login Page
-![Login Page FRONT](https://cdn.discordapp.com/attachments/511085034095116291/658821345811103746/Screen_Shot_2019-12-23_at_2.00.29_PM.png)
-
-## ToS Page
-![Login Page FRONT](https://cdn.discordapp.com/attachments/511085034095116291/658822117386747914/Screen_Shot_2019-12-23_at_2.03.46_PM.png)
-
-## Admin Login Page
-![AdminLog Page FRONT](https://cdn.discordapp.com/attachments/511085034095116291/658822253995098142/Screen_Shot_2019-12-23_at_2.04.18_PM.png)
-
-## Admin Data Collection Page
-![Admin Page FRONT](https://cdn.discordapp.com/attachments/511085034095116291/658823949307740174/Screen_Shot_2019-12-23_at_2.04.31_PM.png)
-#### Features
-![Admin Page FRONT](https://cdn.discordapp.com/attachments/511085034095116291/658822377974792192/Screen_Shot_2019-12-23_at_2.04.49_PM.png)
-
-
-
 
 ### Coastline App
 Coastline App is an award-winning hackathon app (Hack4theSEA) and an ISEF (International Science Engineering Fair) Computer Science - Machine Learning Nominee Idea designed for volunteering work. Our team decided to reuse our past code (Java ANDROID prototype) and idea, to revise it in a way that's tailored for Alohadash, our Data-Driven Platform that's built to collect sustainable data through our little platform community. The Idea is rather simple. What if there's a way to process and classify images in a way that helps volunteering work? (e.g take a picture of riddled trash in Hawaii and classifies the object, it's geolocation, type of material, time and day) and develops a smart analytic dashboard for registered compananies to see what kind of trash Hawaii si dealing with and how it's affecting the environment around it. The idea is founded by community-driven data and state of the art Neural Network for classificaiton and object detection through smartphone cameras. This is an idea is built through 3 years of ideating and tinkering, and we are highly excited to integrate coastline app in a way that connects eco-friendly idea within communites in Hawaii. 
@@ -77,6 +44,33 @@ We deepened our Vue and backend knowledge. In addition, we learned the importanc
 ## What's next for Team S
 Even if we are not selected to showcase our application to the judges we plan on continuing this project in hopes that we make a difference in Hawaii. In the end it is not about the competition, the awards or recognition, but it is instead about the change we can make to help make Hawaii a beauty and enjoyable place.
 
+# HACC2019 Event
+![alt text](https://cdn.discordapp.com/attachments/622355729751212033/643860546130673664/Screen_Shot_2019-11-12_at_7.11.51_AM.png)
+https://alohadash.me (NOT PORTED/PRODUCTION CODE) <br> 
+https://governdash.web.app/ (PROTOTYPE) WORKING
+
+### Screenshots.
+## Landing Page
+![Landing Page FRONT](https://cdn.discordapp.com/attachments/511085034095116291/658820300686884884/Screen_Shot_2019-12-23_at_1.55.28_PM.png)
+![Login Page FRONT](https://cdn.discordapp.com/attachments/511085034095116291/658820989710368780/Screen_Shot_2019-12-23_at_1.59.08_PM.png)
+![Login Page FRONT](https://cdn.discordapp.com/attachments/511085034095116291/658821112351948800/Screen_Shot_2019-12-23_at_1.59.37_PM.png)
+![Login Page FRONT](https://cdn.discordapp.com/attachments/511085034095116291/658821181213769737/Screen_Shot_2019-12-23_at_1.59.59_PM.png)
+![Login Page FRONT](https://cdn.discordapp.com/attachments/511085034095116291/658821181213769737/Screen_Shot_2019-12-23_at_1.59.59_PM.png)
+
+
+## Login Page
+![Login Page FRONT](https://cdn.discordapp.com/attachments/511085034095116291/658821345811103746/Screen_Shot_2019-12-23_at_2.00.29_PM.png)
+
+## ToS Page
+![Login Page FRONT](https://cdn.discordapp.com/attachments/511085034095116291/658822117386747914/Screen_Shot_2019-12-23_at_2.03.46_PM.png)
+
+## Admin Login Page
+![AdminLog Page FRONT](https://cdn.discordapp.com/attachments/511085034095116291/658822253995098142/Screen_Shot_2019-12-23_at_2.04.18_PM.png)
+
+## Admin Data Collection Page
+![Admin Page FRONT](https://cdn.discordapp.com/attachments/511085034095116291/658823949307740174/Screen_Shot_2019-12-23_at_2.04.31_PM.png)
+#### Features
+![Admin Page FRONT](https://cdn.discordapp.com/attachments/511085034095116291/658822377974792192/Screen_Shot_2019-12-23_at_2.04.49_PM.png)
 
 ## Project Directory Setup (IMPORTANT)
 ```
